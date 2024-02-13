@@ -1,0 +1,33 @@
+html, body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.all{
+    width: 600px;
+    height: auto;
+    border: 2px solid blue;
+    border-radius: 25px;
+    margin: auto;
+    padding: 20px;
+}
+.counter{
+    text-align: center;
+    color: blue;
+}
+.osoby10-18{
+    width: 600px;
+    height: auto;
+    border: 2px solid red;
+    border-radius: 25px;
+    margin: auto;
+    padding: 20px;
+}
+.osoby19-50{
+    width: 600px;
+    height: auto;
+    border: 2px solid green;
+    border-radius: 25px;
+    margin: auto;
+    padding: 20px;
+}

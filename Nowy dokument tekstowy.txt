@@ -1,0 +1,4 @@
+class - przepis na obiekt
+obiekt - powstaje z danej instancji klasy
+wlasciwosci - zmienne stale
+metody - funkcje

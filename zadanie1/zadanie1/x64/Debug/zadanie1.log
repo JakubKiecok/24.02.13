@@ -1,0 +1,4 @@
+﻿  zadanie1.cpp
+C:\Users\Programista\Desktop\JKiecok2CT\24.02.13\zadanie1\zadanie1\zadanie1.cpp(40,27): warning C4305: "=": obcięcie z "__int64" do "int"
+C:\Users\Programista\Desktop\JKiecok2CT\24.02.13\zadanie1\zadanie1\zadanie1.cpp(40,27): warning C4309: "=": obcięcie stałej wartości
+  zadanie1.vcxproj -> C:\Users\Programista\Desktop\JKiecok2CT\24.02.13\zadanie1\x64\Debug\zadanie1.exe
